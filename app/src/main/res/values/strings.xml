@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">xTimesFlash</string>
+    <string name="xTimes">How many flashes ?</string>
+    <string name="flashButton"></string>
+    <string name="light">LIGHT!</string>
+</resources>
